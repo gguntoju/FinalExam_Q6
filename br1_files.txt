@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 “Question – 6: Some commit message is in here”
+=======
+Branch1
+>>>>>>> branch-1
